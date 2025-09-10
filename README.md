@@ -52,17 +52,27 @@
 </div>
 
 ###
-
-<h3 align="left">🔥  ### 🎓 Education
-- **Bachelor of Engineering (B.E.) in Electronics & Telecommunication**  
+<h3 align="left">🎓 Education </h3>
+<p align="left">
+  
+- Post Graduate Diploma In IT Infrastructure Systems and Security
+  Institute for Advanced Computing & Software Development, Akurdi, Pune (CDAC PG-DITISS)
+  
+- Bachelor of Engineering (B.E.) in Electronics & Telecommunication  
   Mumbai University, Pune, India  
-  2016 – 2020  
+  2016 – 2020 
+  
+- Diploma  
+  Rambhau Lingade Polytechnic College, Buldhana, India  
+  2014 – 2016
 
-- **Higher Secondary Education (HSC)**  
-  ABC Junior College, Pune, India  
-  2016 – 2018 </h3> 
-
-
+- Higher Secondary Education (HSC)  
+  Pravara Kanya Vidya Mandir, Pravaranagar, India  
+  2012 – 2014
+    
+- Secondary School Certificate (SSC)         
+  Shri Shivaji High School Chikhli, Buldhana, Maharashtra        
+  2012 </p>
 ###
 
 
